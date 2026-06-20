@@ -1,0 +1,3 @@
+[submodule "na_atlib"]
+	path = na_atlib
+	url = git@github.com:neoatlantis/na_atlib.git
