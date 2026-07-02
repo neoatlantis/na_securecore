@@ -16,7 +16,7 @@ class SecureCoreApp(App):
         super().__init__()
         self._atservice = atservice
 
-    def compose(self) -> ComposeResult:
+    def compose(self):
         """Create child widgets for the app."""
         yield Header()
         yield Footer()
